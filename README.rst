@@ -4,10 +4,10 @@
 	This repository is an attempt of up-to-date template to start
 	new projects from. It is inpired from the following contributions:
 
-	- `Kenneth Reitz <https://github.com/kennethreitz/samplemod>`_'s sample repository
+	- Kenneth Reitz's `sample repository <https://github.com/kennethreitz/samplemod>`_ and `best practices <https://www.kennethreitz.org/essays/repository-structure-and-python>`_
 	- this `readme <https://github.com/jehna/readme-best-practices>`_ for the open-source related content
 
-	*Do not forget* to update all description files like:
+	*Do not forget (!)* to update all description files like:
 
 	- LICENSE
 	- requirements.txt
@@ -24,12 +24,12 @@
     :height: 100px
 
 
-EIG3_IAFlash
-============
+My Project
+==========
 
-	Preventing the burden of false contravensions.
+	My tagline.
 
-This project is a simple showcase of ideas for the `AIFlash` project.
+The short description.
 
 
 Roadmap
@@ -72,7 +72,7 @@ None.
 Done
 ----
 
-None.
+- create the repository
 
 
 References
